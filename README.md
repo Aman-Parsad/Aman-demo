@@ -1,3 +1,3 @@
 # Aman-demo
 this is my first git repository.<br>
-Author- Aman Parsad(jai shree radhad)
+Author- Aman Parsad(jai shree radha)
